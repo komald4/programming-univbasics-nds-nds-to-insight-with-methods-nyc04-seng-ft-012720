@@ -37,4 +37,3 @@ def directors_totals(nds)
    result
  end
 
-end
